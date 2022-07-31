@@ -1,0 +1,11 @@
+.nav-item:hover{
+    cursor: pointer;
+}
+
+.nav-link:active{
+    color: black;
+}
+
+.sidebar{
+    border-right: 1px solid black
+}

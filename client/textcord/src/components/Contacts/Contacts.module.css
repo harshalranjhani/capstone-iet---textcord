@@ -1,0 +1,18 @@
+.list-group {
+  border-right: 1px solid black;
+}
+
+.contactParent {
+  height: 400px;
+  overflow: scroll;
+}
+
+.conversationParent {
+  height: 400px;
+  overflow: scroll;
+}
+
+.onHover:hover{
+  cursor: pointer;
+  opacity: 0.5;
+}
